@@ -6,5 +6,9 @@ Search engine judul anime berbasis gambar.
 
 [Copyright (c) 2020 Amir Sayonara](LICENSE)
 
+## Release
+Laman dapat diakses pada link berikut:
+> [WAIT: What Anime Is This](http://amirsayonara.github.io/what-anime-is-this/wait.html)
+
 ## API
 - https://github.com/soruly/trace.moe
